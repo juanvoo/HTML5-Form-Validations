@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.form-control.ok input {
+  border: 0.1px solid;
+  border-color: green;
+}
+.error {
+  border: 0.1px solid;
+  border-color: red;
+}
